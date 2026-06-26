@@ -1,7 +1,7 @@
 # TODO
 
 ## Phase 1: Foundation (The Engine)
-- [ ] Initialize project with Vite, TypeScript, and Three.js.
+- [x] Initialize project with Vite, TypeScript, and Three.js.
 - [ ] Set up basic Three.js boilerplate (Scene, Camera, Renderer, Resize handling).
 - [ ] Implement a basic starfield (infinite star background).
 
